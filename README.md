@@ -123,3 +123,14 @@ This project demonstrates my ability to:
 This project helped me strengthen my frontend development skills by combining design, responsiveness, and interactivity into a complete real-world coffee website experience.
 
 <img width="1920" height="1080" alt="Screenshot (41)" src="https://github.com/user-attachments/assets/aae87d50-2236-4900-b3d7-040dd5277e38" />
+<img width="1920" height="1080" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/f454d4a5-073c-4726-a670-31ee9ba681b8" />
+<img width="1920" height="1080" alt="Screenshot (43)" src="https://github.com/user-attachments/assets/5a9d3e81-2a35-45f7-a013-3f76bdeb3df2" />
+<img width="1920" height="1080" alt="Screenshot (44)" src="https://github.com/user-attachments/assets/5c8a91e1-41a8-4525-a24a-4a42261e4f57" />
+<img width="1920" height="1080" alt="Screenshot (47)" src="https://github.com/user-attachments/assets/3c3d2dbd-e297-4854-bc8c-79c7c379bc82" />
+<img width="1920" height="1080" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/2781da82-6d3c-4ff4-bb72-9831302022c2" />
+
+
+
+
+
+
